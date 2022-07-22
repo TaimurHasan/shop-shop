@@ -37,8 +37,8 @@ Shop-Shop is an online E-commerce website built using React Redux tools. It allo
 There is no installation requirements to use this application as it is deployed on Heroku, please refer to the 'Usage' section below.
 
 If you wish to download this application and run it on a local server, following the below instructions:
-1. Clone the repository using ```git clone git@github.com:TaimurHasan/MERNBookSearch.git``` in your desired directory.
-2. Navigate into the root directory of this project (``` cd ./MERNBookSearch```).
+1. Clone the repository using ```git clone git@github.com:TaimurHasan/shop-shop.git``` in your desired directory.
+2. Navigate into the root directory of this project (``` cd ./shop-shop```).
 3. Run ```npm init -y``` and ```npm i``` from the command line to initiate npm and install the required packages
 4. Run ```npm run develop``` from the command line to start the Express and React server
 
@@ -48,15 +48,10 @@ Note: this application using Concurrently to launch both backend and frontend se
 
 ## Usage
 
-To use this application, please navigate to the live deployment on Heroku [here](https://booksearchbytaimur.herokuapp.com/).
+To use this application, please navigate to the live deployment on Heroku [here](https://shopshopbytaimur.herokuapp.com/).
 
-To create an account, navigate to the Login/Signup link in the top right of the page as shown below and enter a Username, Email, and Password to create a account for the very first time.
+To create an account, navigate to the Signup link in the top right of the page as shown below and enter a Username, Email, and Password to create a account for the very first time.
 
-![login-area](./assets/login.png)
-
-<br/>
-
-![login-area](./assets/signup.png)
 
 <a name="license"></a>
 ## License
